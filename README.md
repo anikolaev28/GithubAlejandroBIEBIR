@@ -1,2 +1,2 @@
-HW 1 
+HW 1 ; 
 6 lines of basic python code 
